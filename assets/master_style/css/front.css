@@ -1,0 +1,28 @@
+
+/* 
+    Created on : Nov 1, 2016, 3:45:22 PM
+    Author     : Habib Koe Tkj
+*/
+
+.box-home{
+          min-height: 150px !important;
+          border: 1px solid #fff;
+          color: #fff;
+}
+.box-home a{
+          color: #fff;
+}
+.font-material-home{
+          margin-top: 13px;
+          font-size: 90px;
+}
+
+nav .brand-logo img{
+          margin-top: 17px !important;
+}
+
+@media only screen and (max-width : 992px) {
+          nav .brand-logo img{
+                    margin-top: 13px !important;
+          }
+}
